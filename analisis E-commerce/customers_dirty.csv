@@ -1,0 +1,41 @@
+customer_id,customer_name,segment,region,city,state
+C001,Cliente 1,Consumer,North,Ciudad_4,CDMX
+C002,Cliente 2,Corporate,West,Ciudad_5,Yucatán
+C003,Cliente 3,Consumer,West,Ciudad_10,CDMX
+C004,Cliente 4,Consumer,norte,Ciudad_5,Yucatán
+C005,Cliente 5,Consumer,South,Ciudad_5,Nuevo León
+C006,Cliente 6,Consumer,North,Ciudad_7,Yucatán
+C007,Cliente 7,Home Office,North,Ciudad_2,CDMX
+C008,Cliente 8,Corporate,East,Ciudad_9,
+C009,Cliente 9,Corporate,South,Ciudad_4,Yucatán
+C010,Cliente 10,Home Office,East,Ciudad_5,Nuevo León
+C011,Cliente 11,Consumer,West,Ciudad_3,Jalisco
+C012,Cliente 12,Home Office,East,Ciudad_8,Jalisco
+C013,Cliente 13,Consumer,East,Ciudad_4,Nuevo León
+C014,Cliente 14,Corporate,North,Ciudad_4,Nuevo León
+C015,Cliente 15,Corporate,East,Ciudad_9,Yucatán
+C016,Cliente 16,Consumer,South,Ciudad_4,Jalisco
+C017,Cliente 17,Corporate,South,Ciudad_1,CDMX
+C018,Cliente 18,Corporate,West,Ciudad_5,Yucatán
+C019,Cliente 19,Home Office,North,Ciudad_9,Yucatán
+C020,Cliente 20,Home Office,North,Ciudad_9,Jalisco
+C021,Cliente 21,Home Office,South,Ciudad_7,CDMX
+C022,Cliente 22,Corporate,East,Ciudad_7,Jalisco
+C023,Cliente 23,Corporate,North,Ciudad_7,Jalisco
+C024,Cliente 24,Consumer,East,Ciudad_7,Nuevo León
+C025,Cliente 25,Home Office,West,Ciudad_6,CDMX
+C026,Cliente 26,Corporate,South,Ciudad_9,Jalisco
+C027,Cliente 27,Corporate,South,Ciudad_4,Nuevo León
+C028,Cliente 28,Home Office,West,Ciudad_2,Nuevo León
+C029,Cliente 29,Consumer,East,Ciudad_1,Yucatán
+C030,Cliente 30,Home Office,East,Ciudad_3,Nuevo León
+C031,Cliente 31,Home Office,East,Ciudad_4,CDMX
+C032,Cliente 32,Corporate,East,Ciudad_1,CDMX
+C033,Cliente 33,Corporate,West,Ciudad_6,Jalisco
+C034,Cliente 34,Home Office,North,Ciudad_8,Jalisco
+C035,Cliente 35,Consumer,North,Ciudad_2,Yucatán
+C036,Cliente 36,Corporate,South,Ciudad_6,Nuevo León
+C037,Cliente 37,Home Office,South,Ciudad_4,Nuevo León
+C038,Cliente 38,Home Office,East,Ciudad_3,Nuevo León
+C039,Cliente 39,Home Office,East,Ciudad_1,Nuevo León
+C040,Cliente 40,Home Office,West,Ciudad_9,Nuevo León
